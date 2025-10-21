@@ -15,11 +15,18 @@ class EcoColors {
   static const Color terracotta = Color(0xFFC87941);
   static const goldenYellow = Color(0xFFE8B923);
 
-  // Neutral
+  // Neutral - Light
   static const Color charcoal = Color(0xFF2C3E50);
   static const Color slateGray = Color(0xFF5F6F7A);
   static const Color lightGray = Color(0xFFE5E9EC);
   static const Color white = Color(0xFFFFFFFF);
+  
+  // Neutrak - Dark
+  static const Color darkBackground = Color(0xFF121212);
+  static const Color darkSurface = Color(0xFF1E1E1E);
+  static const Color darkCard = Color(0xFF2A2A2A);
+  static const Color lightText = Color(0xFFE0E0E0);
+  static const Color dimText = Color(0xFFB0B0B0);
 
   // Status
   static const Color successGreen = Color(0xFF4CAF50);
